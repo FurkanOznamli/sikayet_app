@@ -308,7 +308,7 @@ class _SikayetDetaySayfasiState extends State<SikayetDetaySayfasi> {
                   hintText: 'Yanıtınızı buraya yazın...',
                   border: OutlineInputBorder(),
                   filled: true,
-                  fillColor: Colors.white,
+                  fillColor: Colors.grey,
                 ),
               ),
               SizedBox(height: 16),
